@@ -74,22 +74,22 @@
  <cropMarksColor value="Registration" type="IWMetaStore::eMarksColor"/>
  <cropMarksEnabled value="true" type="bool"/>
  <cropMarksInverted value="false" type="bool"/>
- <cropMarksLength value="3_mm" type="paper::universal_t"/>
- <cropMarksMargin value="2_mm" type="paper::universal_t"/>
+ <cropMarksLength value="0.118_in" type="paper::universal_t"/>
+ <cropMarksMargin value="0.079_in" type="paper::universal_t"/>
  <cropMarksOffset value="0_mm" type="paper::universal_t"/>
- <cropMarksWidth value="0.07_mm" type="paper::universal_t"/>
- <cutStackPagesOrder value="0" type="int"/>
+ <cropMarksWidth value="0.003_in" type="paper::universal_t"/>
+ <cutStackPagesOrder value="DeepRightDown" type="IWMetaStore::eCutStackOrder"/>
  <enableDuplexPrinter value="false" type="bool"/>
  <flipBackside value="false" type="bool"/>
- <gapsHorizontal value="in;1.005 0" type="GapValues"/>
- <gapsVertical value="in;0.138889" type="GapValues"/>
+ <gapsHorizontal value="in;0.4296" type="GapValues"/>
+ <gapsVertical value="in;0" type="GapValues"/>
  <layoutType value="2" type="int"/>
  <pageHeight value="666_pt" type="paper::universal_t"/>
  <pageProportionalScale value="true" type="bool"/>
  <pageScale value="1" type="double"/>
  <pageWidth value="513_pt" type="paper::universal_t"/>
  <rows value="1" type="int"/>
- <sheetHeight value="842_pt;297_mm;11.693_in" type="paper::multi_t"/>
+ <sheetHeight value="791_pt;279_mm;11_in" type="paper::multi_t"/>
  <sheetInformationAlignment value="eSheetSideAlignNear" type="IWMetaStore::eSheetSideAlign"/>
  <sheetInformationEnabled value="false" type="bool"/>
  <sheetInformationFontSize value="9" type="double"/>
@@ -103,7 +103,7 @@
  <sheetTextLocation value="eSheetSideLeft" type="IWMetaStore::eSheetSide"/>
  <sheetTextOffsetHorizontal value="0_pt" type="paper::universal_t"/>
  <sheetTextOffsetVertical value="0_pt" type="paper::universal_t"/>
- <sheetWidth value="1190_pt;420_mm;16.535_in" type="paper::multi_t"/>
+ <sheetWidth value="1225_pt;432_mm;17_in" type="paper::multi_t"/>
  <sheetsOrder value="Reorder_None" type="IWMetaStore::eReorderMode"/>
  <shuffleGroupSize value="1" type="int"/>
  <shuffleKeepFrontAndBacksTogetherInDuplexShuffle value="false" type="bool"/>
